@@ -21,4 +21,4 @@
 2.到自己Fork后的项目，修改LynkCoHelper下的account.json文件，填写自己的领克APP账户密码，填写完点击保存
 
 3.到自己Fork的项目，点击Actions，然后启用Workflows，启动后会在每天凌晨的6时.30分执行（UTC+8时间）
-```
+``` 
